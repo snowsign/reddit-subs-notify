@@ -1,5 +1,5 @@
 ## Synopsis
-This Script queiries a specified subreddit and will notify you via Reddit PM when it reaches a set number of subscribers.
+This script queiries a specified subreddit and will notify you via Reddit PM when it reaches a set number of subscribers.
 
 ## License
 
