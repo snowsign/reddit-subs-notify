@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-Queries r/todayiwatched and DMs a notification when it hits 1k subscribers.
+Queries a specified subreddit and DMs a notification when it hits 1k subscribers.
 """
 import praw
 import configparser
